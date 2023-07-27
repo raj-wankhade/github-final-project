@@ -6,7 +6,7 @@
 
 # Author: Upkar liddar (IBM)
 # Additional Authors:
-# < Your Github username>
+# <raj-wankhade>
 
 # Input:
 # p, princical amount
